@@ -1,3 +1,2 @@
-A Canva Template Clone Website Using Bootstrap, HTML and CSS.
-
+This website is a clone of a Canva template, built using Bootstrap, HTML, and CSS.
 ![Logo](logo.png)
